@@ -1,0 +1,385 @@
+    1  which git
+    2  git version
+    3  ls
+    4  clear
+    5  git --version
+    6  get version
+    7  git version
+    8  clear
+    9  ls
+   10  clear
+   11  git config --global user.name "Kiran H"
+   12  git config --global user.email "kiranh1518@gmail.com"
+   13  git config --global push.default 
+   14  git config --global push.default "simple"
+   15  pwd
+   16  cd D:\kiran\Git
+   17  cd /
+   18  ls
+   19  cd D:
+   20  ls
+   21  cd kiran/
+   22  ls
+   23  cd Git/
+   24  git clone https://github.com/kiranh1518/Jul-Oct-1518.git
+   25  ls
+   26  cd Jul-Oct-1518/
+   27  ls
+   28  echo "First line" > Java.txt
+   29  ls
+   30  git status 
+   31  cat Java.txt 
+   32  git add .
+   33  ls
+   34  git add .
+   35  git status 
+   36  git commit -m "First change for dummy release"
+   37  git status
+   38  ls
+   39  echo "Line 2" >> Java.txt 
+   40  ls
+   41  cat Java.txt 
+   42  git status
+   43  git add Java.txt 
+   44  git status 
+   45  echo "hello" java1.txt
+   46  git status
+   47  git add .
+   48  git stauts
+   49  git status 
+   50  ls
+   51  echo "hello" > java2.txt
+   52  ls
+   53  git status
+   54  git add .
+   55  git status 
+   56  git commit -m "second changes for dummy relese"
+   57  git status 
+   58  ls
+   59  cat java2.txt 
+   60  ls -a
+   61  cd .git/
+   62  cd ..
+   63  ls
+   64  git log 
+   65  git log 1
+   66  git log 
+   67  git log 1
+   68  git log --oneline 
+   69  git log 
+   70  show ee5703d
+   71  show ee570
+   72  git show ee570
+   73  ls
+   74  git push
+   75  ls .git/
+   76  ls
+   77  ls
+   78  ls 
+   79  cd ..
+   80  ls
+   81  cd Jul-Oct-1518/
+   82  ls
+   83  cd ..
+   84  git clone https://github.com/kiranh1518/Jul-Oct-1518.git /workspace00
+   85  ls
+   86  cd ..
+   87  ls
+   88  cd Git/
+   89  ls
+   90  cd /
+   91  ls
+   92  cd `
+   93  clear
+   94  cd ~
+   95  ls
+   96  pwd
+   97  ls -l
+   98  ls | grep work
+   99  history 
+  100  ls
+  101  cd AppData/
+  102  ls
+  103  cd Local
+  104  ls
+  105  cd Programs
+  106  ls
+  107  cd Git/
+  108  ls
+  109  cp workspace00 D:\kiran\Git
+  110  cp workspace00 D:\kiran\Git
+  111  cp -r workspace00 D:\kiran\Git
+  112  D:\kiran
+  113  cd /
+  114  ls
+  115  /
+  116  cd /
+  117  cd \
+  118  cd /
+  119  ls
+  120  pwd
+  121  cd workspace00/
+  122  ls
+  123  D:
+  124  cd D:
+  125  ;s
+  126  ls
+  127  cd kiran/
+  128  ls
+  129  cd Git/
+  130  ls
+  131  pwd
+  132  cd ~
+  133  ls
+  134  cd AppData/
+  135  ls
+  136  cd Local/Programs/
+  137  ls
+  138  cd Git/
+  139  ls
+  140  cd workspace00/
+  141  cd ..
+  142  ls
+  143  cp workspace00 /d/kiran/Git
+  144  cp -R /workspace00 /d/kiran/Git
+  145  cd /
+  146  /d/kiran/Git
+  147  cd /d/kiran/Git
+  148  ls
+  149  cd workspace00/
+  150  ls
+  151  ls
+  152  cd ..
+  153  ls
+  154  cd workspace00/
+  155  ls
+  156  cd ..
+  157  ls
+  158  cd Jul-Oct-1518/
+  159  ls
+  160  clear
+  161  echo "workspace file2" > workspace.txt
+  162  ls
+  163  git logs
+  164  git log
+  165  ls
+  166  git add .
+  167  git status
+  168  git commit -m "Worspace added"
+  169  git stauts
+  170  git status 
+  171  git push
+  172  git log
+  173  git status 
+  174  ls
+  175  cd ..
+  176  ls
+  177  cd workspace00/
+  178  ls
+  179  git pull 
+  180  ls
+  181  git log
+  182  git stauts
+  183  ls
+  184  cd ..
+  185  ls
+  186  cd Jul-Oct-1518/
+  187  ls
+  188  clear
+  189  git branch 
+  190  cd ..
+  191  ls
+  192  cd workspace00/
+  193  git branch 
+  194  git branch 
+  195  git branch IOS
+  196  git branch 
+  197  git checkout IOS 
+  198  git branch 
+  199  cleAR
+  200  LS
+  201  touch IOSFILE.txt
+  202  ls
+  203  git log --oneline 
+  204  ls
+  205  git branch 
+  206  git checkout main
+  207  ls
+  208  git checkout IOS
+  209  ls
+  210  git branch main
+  211  ls
+  212  git branch 
+  213  git checkout main
+  214  ls
+  215  touch FILEINMAIN
+  216  ls
+  217  git add .
+  218  git log --oneline
+  219  git commit -m "adding file from main branch"
+  220  git log --oneline 
+  221  git push
+  222  ls
+  223  git log --oneline 
+  224  git branch 
+  225  git checkout IOS
+  226  ls
+  227  git pull
+  228  ls
+  229  ls
+  230  git log --oneline 
+  231  git checkout main
+  232  ls
+  233  cat FILEINMAIN 
+  234  ls
+  235  git log --oneline 
+  236  git show 706444f
+  237  git branch 
+  238  git checkout IOS
+  239  ls
+  240  ls
+  241  git checkout main
+  242  ls
+  243  git log --oneline 
+  244  clear
+  245  git brach
+  246  git branch 
+  247  git merge IOS 
+  248  ls
+  249  git checkout IOS
+  250  ls
+  251  git merge main
+  252  ls
+  253  git log 
+  254  git log --oneline 
+  255  ls
+  256  git checkout main
+  257  ls
+  258  git log --oneline 
+  259  git checkoout IOS
+  260  git checkout IOS
+  261  git log --oneline 
+  262  ls
+  263  git log
+  264  ls
+  265  ls
+  266  cat FILEINMAIN 
+  267  echo "This is from filemain" > FILEINMAIN 
+  268  cat FILEINMAIN 
+  269  git add .
+  270  git status
+  271  git commit -m "Added to FILEMAIN some line"
+  272  git log --oneline 
+  273  ls
+  274  git checkout main
+  275  ls
+  276  cat FILEINMAIN 
+  277  git checkout IOS
+  278  ls
+  279  cat FILEINMAIN 
+  280  git merge main
+  281  ls
+  282  cat FILEINMAIN 
+  283  git checkout main
+  284  ls
+  285  cat FILEINMAIN 
+  286  git merge IOS
+  287  ls
+  288  cat FILEINMAIN 
+  289  clear
+  290  git checkout IOS
+  291  ls
+  292  cat FILEINMAIN 
+  293  ls
+  294  touch DOINEEDTHIS01 DOINEEDTHIS02 DOINEEDTHIS03
+  295  ls
+  296  add .
+  297  git add .
+  298  git commit -m "DOINEEDTHIS 01"
+  299  git commit -m "DOINEEDTHIS 02"
+  300  git log --oneline 
+  301  touch TEST2
+  302  ls
+  303  add .
+  304  git add .
+  305  git commit -m "TEST 02"
+  306  git log 2
+  307  git log --oneline 2
+  308  git log --oneline 
+  309  ls
+  310  git checkout main
+  311  ls
+  312  git cherry-pick 721d658
+  313  ls
+  314  git log --oneline 
+  315  ls
+  316  rm -rf DOINEEDTHIS3
+  317  ls
+  318  rm DOINEEDTHIS03
+  319  ls
+  320  git log --oneline 
+  321  git checkout IOS
+  322  ls
+  323  ls
+  324  git push
+  325  git checkout main
+  326  git push
+  327  clear
+  328  ls
+  329  cat Java.txt 
+  330  echo "Line 3" >> Java.txt 
+  331  cat Java.txt 
+  332  git stash 
+  333  git log --oneline -2
+  334  git stauts
+  335  git status 
+  336  ls
+  337  cat Java.txt 
+  338  git stash list
+  339  git status 
+  340  ls
+  341  cat java2.txt 
+  342  echo "TESTstash01" >> java2.txt 
+  343  echo "TESTstats02" >>workspace.txt 
+  344  git status
+  345  git stash 
+  346  git status
+  347  git stash list 
+  348  ls
+  349  cat DOINEEDTHIS0
+  350  cat DOINEEDTHIS01
+  351  cat DOINEEDTHIS02
+  352  clear
+  353  ls
+  354  cat java2.txt 
+  355  cat workspace.txt 
+  356  git stash pop
+  357  ls
+  358  cat workspace.txt 
+  359  git stash clear
+  360  git stash list 
+  361  git status
+  362  git stash 
+  363  git status
+  364  git stash list 
+  365  ls
+  366  cat workspace.txt 
+  367  echo "file2onWC" >> workspace.txt 
+  368  git add .
+  369  git commit -m "file on WC"
+  370  git log --oneline 
+  371  git revert 791fd29
+  372  ls
+  373  git log --oneline 
+  374  git checkout 791fd29
+  375  history 
+  376  ls
+  377  pwd
+  378  git branch 
+  379  git checkout main
+  380  ls
+  381  history >> GitDUmps /d/kiran/Git/
+  382  history >> GitDUmps /d/kiran/Git/
+  383  history >> GitDUmps /d/kiran/Git/:
+  384  history >> GitDUmps /d/kiran/Git/
+  385  history >> GitDUmps 
